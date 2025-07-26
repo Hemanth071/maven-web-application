@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>facebook repo</name>
+	      <name>maven-releases</name>
 	      <url>http://35.154.46.104:8081/#browse/browse:maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>facebook repo </name>
+	      <name>maven-snapshots</name>
 	      <url>http://35.154.46.104:8081/#browse/browse:maven-snapshots/</url>
 	    </snapshotRepository>
 	    
